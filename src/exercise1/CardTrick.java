@@ -40,6 +40,8 @@ public class CardTrick {
      * replace this information with your own.
      * @author Gina Kim Jan 2023
      */
+    
+    //I'm done!
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
@@ -49,7 +51,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My career ambitions: I want to be a software engineer  ");
-        System.out.println("-- I'll try to be more active on LinkedIn")
+        System.out.println("-- I'll try to be more active on LinkedIn");
 	System.out.println();	
 
         System.out.println("My hobbies:");
