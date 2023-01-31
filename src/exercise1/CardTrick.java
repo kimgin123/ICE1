@@ -49,7 +49,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My career ambitions: I want to be a software engineer  ");
-        System.out.println("-- Be more active on LinkedIn")
+        System.out.println("-- I'll try to be more active on LinkedIn")
 	System.out.println();	
 
         System.out.println("My hobbies:");
